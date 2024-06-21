@@ -1,0 +1,15 @@
+.small-cursor {
+  width: 8px;
+  height: 8px;
+  border-radius: 100%;
+  border: 1px solid #f56d7a;
+  background: #f63c4e;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  transition: 0 0.1 ease-in;
+  z-index: 15;
+}
+
+.nav-hover {
+  background: "#5e1212";
+}
